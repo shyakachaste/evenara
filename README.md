@@ -1,6 +1,6 @@
 # Evenara
 
-**Evenara**  is an event management system built to help event organizers to organize events and allow users to book available seats. 
+**Evenara**  is an event management platform built to help event organizers to organize events and allow users to book available seats. 
 
 ## How to Use
 

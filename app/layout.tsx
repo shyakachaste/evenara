@@ -16,7 +16,10 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "Evenara",
-  description: "Evenara is an event management system built to help event organizers to organize events",
+  description: "Evenara is an event management platform built to help event organizers to organize events",
+  icons: {
+    icon: '/assets/images/logo.svg'
+  }
 };
 
 export default function RootLayout({
